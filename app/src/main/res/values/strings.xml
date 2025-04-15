@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Exercise2</string>
+    <string-array name="languagess">
+        <item>English United States</item>
+
+    </string-array>
+</resources>
